@@ -3,7 +3,7 @@ import cors from "cors";
 
 const allowedOrigins = [
   "http://localhost:3000", // التطوير
-  "https://task-manager-react-97ebkg4gc-la-casas-projects.vercel.app", // Vercel production
+  "https://task-manager-react-theta.vercel.app/", // Vercel production
 ];
 
 const corsOptions = {
